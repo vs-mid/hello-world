@@ -1,2 +1,2 @@
 # hello-world
-This is to greet the world with a first GitHub experience.
+There's actually not a lot to tell here. Just a quick hello to whoever might be reading here.
